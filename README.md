@@ -1,2 +1,2 @@
-# MiniTheme Edit
-Minitheme by Bacon_Space edited by me =D includes BlurStriketrough
+# The Material Theme
+A better version of the original Discord theme!
