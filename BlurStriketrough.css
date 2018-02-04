@@ -1,6 +1,0 @@
-.message-group .markup:not(:hover) s {
-  filter: blur(5px);
-}
-s, strike, del {
-    text-decoration: none;
-}
